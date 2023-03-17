@@ -19,6 +19,7 @@ from guided_diffusion.script_util import (
     args_to_dict,
 )
 
+os.environ['OPENAI_LOGDIR'] = r"/kaggle/working"
 
 def main():
     args = create_argparser().parse_args()
