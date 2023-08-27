@@ -1,0 +1,6 @@
+Logging to .
+creating model and diffusion...
+sampling...
+created 16 samples
+saving to ./model575000.pt_samples_16x256x256x3.npz
+sampling complete
